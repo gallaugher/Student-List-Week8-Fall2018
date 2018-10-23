@@ -12,6 +12,7 @@
 		3E8A2CB72176847000F07D60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E8A2CB52176847000F07D60 /* Main.storyboard */; };
 		3E8A2CB92176847100F07D60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E8A2CB82176847100F07D60 /* Assets.xcassets */; };
 		3E8A2CBC2176847100F07D60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E8A2CBA2176847100F07D60 /* LaunchScreen.storyboard */; };
+		3E8A2CE42176999C00F07D60 /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8A2CE32176999C00F07D60 /* StudentDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3E8A2CB82176847100F07D60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E8A2CBB2176847100F07D60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E8A2CBD2176847100F07D60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E8A2CE32176999C00F07D60 /* StudentDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3E8A2CB12176847000F07D60 /* AppDelegate.swift */,
 				3E8A2CB32176847000F07D60 /* ViewController.swift */,
+				3E8A2CE32176999C00F07D60 /* StudentDetailViewController.swift */,
 				3E8A2CB52176847000F07D60 /* Main.storyboard */,
 				3E8A2CB82176847100F07D60 /* Assets.xcassets */,
 				3E8A2CBA2176847100F07D60 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				3E8A2CB42176847000F07D60 /* ViewController.swift in Sources */,
 				3E8A2CB22176847000F07D60 /* AppDelegate.swift in Sources */,
+				3E8A2CE42176999C00F07D60 /* StudentDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
